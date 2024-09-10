@@ -7,7 +7,7 @@ import time
 screen = Screen()
 screen.setup(600, 600)
 screen.bgcolor("black")
-screen.title("MY SNAKE Game")
+screen.title("MY SNAKE GAME")
 screen.tracer(0)
 
 snake = Snake()
