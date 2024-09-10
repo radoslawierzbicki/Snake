@@ -19,7 +19,6 @@ Snake is a classic game written in Python using the **turtle** module. In this g
 To run the game, you need Python and the `turtle` module.
 
 ## Gameplay
-## Gameplay
 <img src="Snake_Game.gif" alt="Snake Gameplay" width="300"/>
 
 Control the snake using the arrow keys: Up, Down, Left, Right.
