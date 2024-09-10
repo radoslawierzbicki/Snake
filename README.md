@@ -20,3 +20,5 @@ To run the game, you need Python and the `turtle` module.
 
 ## Gameplay
 Control the snake using the arrow keys: Up, Down, Left, Right.
+
+![Snake Gameplay](C:\Users\rados\PycharmProjects\Snake\Snake Game.gif)
